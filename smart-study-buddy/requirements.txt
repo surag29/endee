@@ -1,0 +1,5 @@
+streamlit
+endee==0.1.10
+pymupdf
+requests
+python-dotenv
